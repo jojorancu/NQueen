@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/jojorancu/NQueen)](https://travis-ci.org/jojorancu/NQueen)
 # NQueen - Problem
 
 Basically this is a way of N-Queen problem could be solved by using **`DFS-Backtracking Algorithm`** and of course recursively.
