@@ -2,10 +2,11 @@ package main
 
 import (
 	"math/rand"
-	. "nqueen/pkg/boardstuff"
 	"os"
 	"testing"
 	"time"
+
+	. "github.com/jojorancu/NQueen/pkg/boardstuff"
 )
 
 /**

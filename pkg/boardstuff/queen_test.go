@@ -1,9 +1,10 @@
 package boardstuff_test
 
 import (
-	. "nqueen/pkg/boardstuff"
 	"os"
 	"testing"
+
+	. "github.com/jojorancu/NQueen/pkg/boardstuff"
 )
 
 func TestMain(m *testing.M) {

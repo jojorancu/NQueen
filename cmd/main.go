@@ -3,9 +3,10 @@ package main
 import (
 	"fmt"
 	"log"
-	. "nqueen/pkg/boardstuff"
 	"sync"
 	"time"
+
+	. "github.com/jojorancu/NQueen/pkg/boardstuff"
 )
 
 /**

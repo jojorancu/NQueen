@@ -1,8 +1,9 @@
 package boardstuff_test
 
 import (
-	. "nqueen/pkg/boardstuff"
 	"testing"
+
+	. "github.com/jojorancu/NQueen/pkg/boardstuff"
 )
 
 /**
